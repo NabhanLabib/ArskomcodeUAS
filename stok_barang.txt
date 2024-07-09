@@ -1,0 +1,6 @@
+nama_barang, jumlah, harga_satuan
+Laptop, 50, 15000000
+Printer, 20, 2000000
+Mouse, 100, 150000
+Keyboard, 75, 300000
+Monitor, 30, 2500000
